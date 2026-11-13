@@ -1,0 +1,7 @@
+simpleshit
+simpleshit-*
+ss
+*.o
+*.swiftmodule
+.build/
+.DS_Store
